@@ -2,6 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/SimonBoury/BIBLAB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+<iframe
+  src="https://embed.kumu.io/2eb636440b9442a16db3fe223baef79b"
+  width="940" height="600" frameborder="0"></iframe>
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
