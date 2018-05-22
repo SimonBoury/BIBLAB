@@ -2,7 +2,7 @@
 
 ## Todo Simon
 
-- Soundloop intro
+- [] Soundloop intro
 - Logo Pippi blurren
 - Beelden Femke en Lander verwerken
 - Definitieve voice-overs
